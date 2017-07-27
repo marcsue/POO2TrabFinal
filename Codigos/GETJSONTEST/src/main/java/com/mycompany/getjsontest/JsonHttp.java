@@ -80,6 +80,7 @@ public class JsonHttp {
         }
     }
     
+    /*
     public static void main(String[] args) throws IOException , JSONException {
         JSONObject json = readJsonFromURL("http://echo.jsontest.com/key/value/one/two");
         System.out.println(json.toString());
@@ -89,5 +90,5 @@ public class JsonHttp {
         System.out.println(js2);
         System.out.println(js2.get("validate"));
     }
-    
+    */
 }
